@@ -1,6 +1,6 @@
 # Olá Mundo!! 👋:smile:
-## Seja Muito Bem vindo!!
-### Esse é meu pequeno espaço, eu espero que encontre o que esteja procurando!!
+## Seja Muito Bem vindo!!:sunglasses::raised_hand:
+### Esse é meu pequeno espaço, eu espero que encontre o que esteja procurando!!:+1:
 <div align="center">
   <a href="https://github.com/JonatasSilva01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasSilva01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,7 @@
   <img align="center" alt="Jonatas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jonatas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jonatas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+</div>:nerd_face:
   
  #
   
