@@ -1,14 +1,15 @@
-# Hi, my name is Jonatas
-# I'am Brazilian I living in São Paulo
+Hi, my name is Jonatas silva, I'am Brazilian, I living in São Paulo with my Family 😎
+I'am studying system development analysis at estácio University, I likes study
+.NET Core and C# Architecture 👨‍💻
 
-## Welcome to my Profile here on Github :sunglasses::raised_hand:
+Welcome my profile 🙋‍♂️😎
 
 
 
 <div align="center">
   <a href="https://github.com/JonatasSilva01">
-  <!---<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasSilva01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasSilva01&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasSilva01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!--<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasSilva01&layout=compact&langs_count=7&theme=dark"/>-->
 </div>
 
   
