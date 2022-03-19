@@ -1,6 +1,5 @@
 Hi, my name is Jonatas silva, I'am Brazilian, I living in São Paulo with my Family 😎
-I'am studying system development analysis at estácio University, I likes study
-.NET Core and C# Architecture 👨‍💻
+I'am studying system development analysis at estácio University.
 
 Welcome my profile 🙋‍♂️😎
 
