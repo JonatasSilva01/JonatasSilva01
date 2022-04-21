@@ -3,8 +3,8 @@
        <h1>Olá, bem vindo ao meu Repositorio Online no Github!</h1>
        <ul>
         <li>- Sou apaixonado por programação e beber bastante café.</li>
-        <li>- Gosto de estudar e trabalhar com Programação.</li>
-        <li>- Minhas linguagens:
+        <li>- Gosto de estudar, trabalhar e frequentar a academia.</li>
+        <li>- Linguagens de estudo:
              <ul>
                  <li>Javascript</li>
                  <li>C#</li>
