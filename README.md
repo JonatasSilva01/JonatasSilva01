@@ -7,6 +7,18 @@
         <li>- Linguagens de estudo:
              <ul>
                  <li>Javascript</li>
+                 <li>React Js</li>
+                 <li>Node</li>
+                 <li>Next Js</li>
+                 <li>Styled Components</li>
+                 <li>GraphQL</li>
+                 <li>NVM</li>
+                 <li>Zsh</li>
+                 <li>Linux</li>
+                 <li>Frontity</li>
+                 <li>API REST</li>
+                 <li>HTML</li>
+                 <li>CSS</li>
                  <li>C#</li>
              </ul>
         </li>
