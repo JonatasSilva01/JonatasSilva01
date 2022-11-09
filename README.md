@@ -9,6 +9,7 @@
                  <li>Javascript</li>
                  <li>React Js</li>
                  <li>Node</li>
+                 <li>Git / GitHub / Bitbucket</li>
                  <li>Next Js</li>
                  <li>Styled Components</li>
                  <li>GraphQL</li>
