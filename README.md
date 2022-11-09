@@ -4,7 +4,7 @@
        <ul>
         <li>- Sou apaixonado por programação e beber bastante café.</li>
         <li>- Gosto de estudar, trabalhar e frequentar a academia.</li>
-        <li>- Linguagens de estudo:
+        <li>- Linguagens de trabalho:
              <ul>
                  <li>Javascript</li>
                  <li>React Js</li>
